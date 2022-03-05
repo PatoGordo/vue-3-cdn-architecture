@@ -7,6 +7,6 @@ export class App {
   
   template = `
     <app-topbar />
-    <router-view class="page" />
+    <router-view class="container distance page" />
   `
 }
